@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 930">
+<defs>
+<path id="topArc" d="M 170 390 A 330 330 0 0 1 830 390"/>
+<path id="bottomArc" d="M 170 470 A 330 330 0 0 0 830 470"/>
+</defs>
+<rect width="1000" height="930" fill="white"/>
+<circle cx="500" cy="390" r="330" fill="#fff" stroke="#111b4b" stroke-width="18"/>
+<circle cx="500" cy="390" r="292" fill="#111b4b" stroke="#ef2029" stroke-width="10"/>
+<text fill="#111b4b" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="900" letter-spacing="2">
+<textPath href="#topArc" startOffset="50%" text-anchor="middle">ST. JEREMY</textPath></text>
+<text fill="#111b4b" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="900" letter-spacing="2">
+<textPath href="#bottomArc" startOffset="50%" text-anchor="middle">ACADEMY</textPath></text>
+<g fill="#ef2029"><path d="M190 375 l10 24 26 2-20 17 6 26-22-14-22 14 6-26-20-17 26-2z"/><path d="M810 375 l10 24 26 2-20 17 6 26-22-14-22 14 6-26-20-17 26-2z"/></g>
+<g fill="#111b4b"><path d="M210 410 q-25 30 8 58 l14-12 q-18-20-4-38z"/><path d="M205 465 q-25 30 8 58 l14-12 q-18-20-4-38z"/><path d="M220 520 q-25 30 8 58 l14-12 q-18-20-4-38z"/><path d="M790 410 q25 30-8 58 l-14-12 q18-20 4-38z"/><path d="M795 465 q25 30-8 58 l-14-12 q18-20 4-38z"/><path d="M780 520 q25 30-8 58 l-14-12 q18-20 4-38z"/></g>
+<g stroke="#f4c400" stroke-width="12" stroke-linecap="round">
+<path d="M500 155v55"/><path d="M410 185l28 45"/><path d="M590 185l-28 45"/><path d="M355 245l50 28"/><path d="M645 245l-50 28"/>
+</g>
+<path d="M500 205 C455 255 475 290 500 305 C525 290 545 255 500 205Z" fill="#f4c400"/>
+<path d="M500 225 C520 255 510 275 500 288 C490 275 480 255 500 225Z" fill="#ffcf20"/>
+<path d="M466 292h68l-8 15h-52zM474 315h52l-7 14h-38z" fill="#fff"/>
+<path d="M345 345 Q425 320 490 355 L500 500 Q425 460 350 485Z" fill="#fff" stroke="#111b4b" stroke-width="7"/>
+<path d="M655 345 Q575 320 510 355 L500 500 Q575 460 650 485Z" fill="#fff" stroke="#111b4b" stroke-width="7"/>
+<g stroke="#111b4b" stroke-width="6" fill="none"><path d="M370 365q55-18 105 8"/><path d="M370 392q55-18 105 8"/><path d="M370 419q55-18 105 8"/><path d="M630 365q-55-18-105 8"/><path d="M630 392q-55-18-105 8"/><path d="M630 419q-55-18-105 8"/></g>
+<path d="M120 650 Q500 760 880 650 L950 725 Q500 870 50 725Z" fill="#111b4b" stroke="#fff" stroke-width="10"/>
+<text x="500" y="765" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700">Learn - Grow - Succeed</text>
+</svg>
